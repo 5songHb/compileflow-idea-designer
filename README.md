@@ -1,3 +1,7 @@
+# 支持2022.1版本的插件
+链接: https://pan.baidu.com/s/1Fr3vNqSsqdi2tZM-UEvekw 提取码: b8mu 复制这段内容后打开百度网盘手机App，操作更方便哦 
+--来自百度网盘超级会员v5的分享
+
 # compileflow-idea-designer
 
 📖 English Documentation | [📖 中文文档](README_CN.md)
